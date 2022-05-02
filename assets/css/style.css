@@ -18,6 +18,13 @@ textarea{
   color: black;
   border-radius: 0;
   border-bottom: 15px solid darkblue;
+  position: fixed;
+  z-index: 9;
+  width: 100vw;
+}
+
+.container{
+    padding-top: 23vh;
 }
 
 .description{
